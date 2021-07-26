@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class BackJoon_2309_일곱난쟁이{
+public class BOJ_2309_일곱난쟁이{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		ArrayList<Integer> all = new ArrayList<Integer>();
