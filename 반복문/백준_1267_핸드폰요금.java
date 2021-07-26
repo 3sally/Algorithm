@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BOJ_1267_핸드폰요금 {
+public class test {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int callCnt = scanner.nextInt(); // 통화의 개수
