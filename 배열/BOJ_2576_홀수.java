@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class BackJoon_2576_홀수{
+public class BOJ_2576_홀수{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		ArrayList<Integer> oddNum = new ArrayList<Integer>();
