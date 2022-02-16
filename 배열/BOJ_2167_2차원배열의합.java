@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BOJ_2167_2차원배열의합 {
+public class BOJ_2577_숫자의개수 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		long A = Long.parseLong(br.readLine());
