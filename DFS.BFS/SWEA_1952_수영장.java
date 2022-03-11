@@ -31,7 +31,7 @@ public class SWEA_1952_수영장 {
 				months[i] = Integer.parseInt(st.nextToken());
 			}
 
-			// 1년짜리 금액
+			// 1년짜리 금액 
 			minPay = pays[3];
 
 			dfs(1, 0);
