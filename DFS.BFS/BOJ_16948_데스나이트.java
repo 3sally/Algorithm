@@ -49,7 +49,7 @@ public class BOJ_16948_데스나이트 {
 			}
 
 			for (int d = 0; d < 6; d++) {
-				int nx = cur.x + dx[d];
+				int nx = cur.x + dx[d];  
 				int ny = cur.y + dy[d];
 
 				if (nx >= 0 && ny >= 0 && nx < N && ny < N && !visited[nx][ny]) {
