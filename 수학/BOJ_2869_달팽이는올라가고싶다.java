@@ -21,3 +21,4 @@ public class BOJ_2869_달팽이는올라가고싶다 {
         System.out.println(day);
     }
 }
+
