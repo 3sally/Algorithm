@@ -36,3 +36,4 @@ public class BOJ_1339_단어수학 {
         System.out.println(sum);
     }
 }
+
